@@ -1,0 +1,59 @@
+        let m1 = SmithsonianDC()
+        m1.MuseumName = "American Indian Museum"
+        m1.MuseumDescription = "Also known as the National Museum of the American Indian. Collection of Native objects, photographs, and media, covering the entire Western Hemisphere from the Arctic Circle to Tierra del Fuego - all exhibits are all designed in collaboration with tribes and communities"
+        m1.MuseumHours = "Daily: 10 a.m. to 5:30 p.m."
+        m1.MuseumAddress = "4th St. & Independence Ave., SW Washington, DC"
+        m1.MuseumMetro = "Federal Center Soutwest "
+        m1.MuseumImage = "AmericanIndian.jpg"
+        m1.MuseumWebSite = "https://americanindian.si.edu"
+        MuseumArray.append(m1)
+        
+        let m2 = SmithsonianDC()
+        m2.MuseumName = "Air and Space Museum"
+        m2.MuseumDescription = "Also known as the National Air and Space Museum. Located in the National Mall in Washington DC - explore different exhibits of aircraft, spacecraft, missles, rockets, and other flight-related exhiibits"
+        m2.MuseumHours = "Daily: 10 a.m. to 5:30 p.m"
+        m2.MuseumAddress = "6th St. & Independence Ave., SW Washington, DC"
+        m2.MuseumMetro = "L'Enfant Plaza"
+        m2.MuseumImage = "Air&Space.jpg"
+        m2.MuseumWebSite = "https://airandspace.si.edu"
+        MuseumArray.append(m2)
+        
+        let m3 = SmithsonianDC()
+        m3.MuseumName = "Natural History Museum"
+        m3.MuseumDescription = "Also known as the National Museum of Natural History. Understand the world and our place in it - explore life on earth through exhibition and activities to one of the largest natural history collection"
+        m3.MuseumHours = "Daily: 10 a.m. to 5:30 p.m."
+        m3.MuseumAddress = "10th St. & Constitution Ave., NW Washington, DC"
+        m3.MuseumMetro = "Smithsonian"
+        m3.MuseumImage = "NaturalHistory.jpg"
+        m3.MuseumWebSite = "https://naturalhistory.si.edu"
+        MuseumArray.append(m3)
+                    
+        let m4 = SmithsonianDC()
+        m4.MuseumName = "National Portrait Gallery"
+        m4.MuseumDescription = "Portrait Gallery introduces you to people who have shaped the country - collection of precolonial to present time. It also includes compelte collection of America's Presidents "
+        m4.MuseumHours = "Daily: 11:30 a.m. to 7 p.m."
+        m4.MuseumAddress = "8th and G Streets,NW Washington, DC"
+        m4.MuseumMetro = "Gallery Place"
+        m4.MuseumImage = "PortraitGallery.jpg"
+        m4.MuseumWebSite = "https://npg.si.edu"
+        MuseumArray.append(m4)
+                    
+        let m5 = SmithsonianDC()
+        m5.MuseumName = "National Postal Museum"
+        m5.MuseumDescription = "Showcases the largest collection of stamps and philatelic material in the world—including postal stationery, vehicles used to transport the mail, mailboxes, meters, cards and letters, and postal materials that predate the use of stamp"
+        m5.MuseumHours = "Daily: 10 a.m. to 5:30 p.m. "
+        m5.MuseumAddress = "2 Massachusetts Ave., NE Washington, DC"
+        m5.MuseumMetro = "Union Station"
+        m5.MuseumImage = "PostalMuseum.jpg"
+        m5.MuseumWebSite = "https://postalmuseum.si.edu"
+        MuseumArray.append(m5)
+                    
+        let m6 = SmithsonianDC()
+        m6.MuseumName = "Renwick Gallery"
+        m6.MuseumDescription = "Dedicated to modern American contemporary craft - was also the first building in the United States built to be an art museum"
+        m6.MuseumHours = "Daily: 10 a.m. to 5:30 p.m."
+        m6.MuseumAddress = "1661 Pennsylvania Ave., NW Washington, DC"
+        m6.MuseumMetro = "Farragut West"
+        m6.MuseumImage = "RenwickGallery.jpg"
+        m6.MuseumWebSite = "https://americanart.si.edu"
+        MuseumArray.append(m5)
